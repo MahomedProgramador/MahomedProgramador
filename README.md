@@ -1,16 +1,7 @@
-👋 Hi there! I'm Mahomed Moosa
+🔍 About Me: I’m deeply passionate about computer science, constantly driven by the thrill of solving problems and pushing the boundaries of technology. Whether it’s developing innovative software or exploring new frameworks, I thrive on learning and growing within this ever-evolving field. When I’m not immersed in coding, you’ll catch me playing football or enjoying meaningful moments with my family.
 
-    🔍 About Me:
-    I’m passionate about computer science and enjoy exploring a wide range of topics within the field.
-    When I’m not coding, you’ll find me playing football or spending quality time with family.
+💻 Currently Working On: I'm open to new challenges and excited to explore opportunities that push my skills to the next level.
 
-    💻 Currently Working On:
-    I’m currently enrolled in the Level 4 Technical Programmer Course at ANQEP and building a web application with Angular. 
-    I'm focused on improving my skills in front-end development and full-stack programming.
+🤝 Let’s Collaborate: I’m always excited to connect with like-minded individuals and collaborate on impactful projects. Whether it’s software development, app building, or anything related to coding, networking or data analyis I’m eager to contribute and learn. If you have a project in mind or need a passionate developer to join forces, don’t hesitate to reach out!
 
-    🤝 Let’s Collaborate:
-    I’m always open to working on exciting projects that involve software development, app building, or anything related
-    to computer programming. If you have a project in mind or need help with coding, feel free to reach out!
-
-    📬 Contact Me:
-    You can reach me via email at mahomedprogramador@gmail.com.
+📬 Contact Me: Feel free to contact me via email at mahomedprogramador@gmail.com. Let’s create something amazing together!
